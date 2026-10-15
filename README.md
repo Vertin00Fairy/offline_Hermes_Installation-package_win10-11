@@ -1,2 +1,5 @@
 # offline_Hermes_Installation-package_win10-11
 这是给国内想用Hermes但是总卡下载界面的用户做的直接一键部署
+
+
+但是注意只有win10和win11系统可以
